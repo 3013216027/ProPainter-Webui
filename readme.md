@@ -2,6 +2,9 @@
 [简体中文](./readme_zh.md)\
 A webui that you can easily pick up objects from the video and eliminate them.
 
+## faster-propainter | 提速版
+https://github.com/halfzm/faster-propainter
+
 ## Demo
 ![](./demo.gif)
 
